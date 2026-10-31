@@ -5,4 +5,3 @@ window.PORTFOLIO_CONFIG = {
   linkedin: 'https://www.linkedin.com/in/joshua-osejigbe-aguele',
   orcid: 'https://orcid.org/0009-0008-1214-4008'
 };
-
