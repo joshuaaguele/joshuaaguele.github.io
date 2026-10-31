@@ -1,0 +1,10 @@
+Joshua Aguele portfolio update — visual refresh
+
+To update your existing GitHub Pages site yourself:
+1. Open https://github.com/joshuaaguele/joshuaaguele.github.io and select Add file > Upload files.
+2. Extract this ZIP on your computer. Drag its contents, including the assets folder, onto the GitHub upload page. If GitHub asks about files with the same names, replace them.
+3. Commit changes directly to main. Wait a few minutes, then refresh https://joshuaaguele.github.io/ (Ctrl+F5 if an old stylesheet remains cached).
+
+If you already uploaded the previous portfolio version, you can use the separate two-file Visual Refresh ZIP instead. Extract it and upload only index.html and styles.css to the repository root.
+
+The diagrams in the research-area cards are schematic. The dashboard image is the project export. Your portrait, DOI links and LinkedIn remain included.
