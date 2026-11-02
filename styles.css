@@ -132,3 +132,7 @@ body{
 @media(max-width:1000px){.work-card{grid-template-columns:1fr}.work-image{height:220px;min-height:220px}.work-card-copy{min-height:220px}.comparison-image{height:220px}}
 @media(max-width:760px){.work-grid{grid-template-columns:1fr}.work-card{grid-template-columns:42% 58%;min-height:210px}.work-image,.comparison-image{height:auto;min-height:210px}.work-card-copy{min-height:210px;padding:17px}.work-card-copy h3{font-size:23px;margin:8px 0}.work-card-copy p{font-size:13px;margin-bottom:12px}.work-card-copy span{font-size:9px}.work-card-copy small{font-size:11px}.comparison-image{padding:9px}.comparison-image div{padding:7px}.comparison-image strong{font-size:15px}.comparison-image i{font-size:9px}}
 @media(max-width:410px){.work-card{grid-template-columns:1fr}.work-image,.comparison-image{height:190px;min-height:190px}.work-card-copy{min-height:0;padding:20px}.work-card-copy small{margin-top:5px}}
+
+/* Show the office portrait in full, including the laptop. */
+.portrait.office-portrait{max-width:100%}
+.portrait.office-portrait img{aspect-ratio:3/2;object-fit:contain}
